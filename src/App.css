@@ -1,0 +1,38 @@
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 0;
+}
+.calculatorBox {
+  height: 500px;
+  width: 400px;
+  /* border: solid; */
+  /* border: 1px solid rgba(0, 0, 0, 0.8); */
+  text-align: center;
+}
+.numberBox {
+  padding: 0;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: auto auto auto auto auto;
+  height: 100%;
+  width: 100%;
+  border: solid;
+}
+
+#outputBox {
+  height: 10%;
+  width: 100%;
+  border: solid;
+  border: 3px solid rgba(0, 0, 0, 0.8);
+  background-color: grey;
+  text-align: center;
+  font-size: 2em;
+}
+button {
+  background-color: rgb(145, 138, 138);
+  font-size: 2em;
+  border: solid;
+  border-color: white;
+}
