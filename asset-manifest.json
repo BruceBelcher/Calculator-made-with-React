@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https://github.com/BruceBelcher/Calculator-made-with-React/static/css/main.a45cd45e.chunk.css",
-    "main.js": "/https://github.com/BruceBelcher/Calculator-made-with-React/static/js/main.26e9adf2.chunk.js",
-    "main.js.map": "/https://github.com/BruceBelcher/Calculator-made-with-React/static/js/main.26e9adf2.chunk.js.map",
-    "runtime~main.js": "/https://github.com/BruceBelcher/Calculator-made-with-React/static/js/runtime~main.5a319637.js",
-    "runtime~main.js.map": "/https://github.com/BruceBelcher/Calculator-made-with-React/static/js/runtime~main.5a319637.js.map",
-    "static/js/2.abf43ca4.chunk.js": "/https://github.com/BruceBelcher/Calculator-made-with-React/static/js/2.abf43ca4.chunk.js",
-    "static/js/2.abf43ca4.chunk.js.map": "/https://github.com/BruceBelcher/Calculator-made-with-React/static/js/2.abf43ca4.chunk.js.map",
-    "index.html": "/https://github.com/BruceBelcher/Calculator-made-with-React/index.html",
-    "precache-manifest.04817ad20f77d5fb7c45d718888a051b.js": "/https://github.com/BruceBelcher/Calculator-made-with-React/precache-manifest.04817ad20f77d5fb7c45d718888a051b.js",
-    "service-worker.js": "/https://github.com/BruceBelcher/Calculator-made-with-React/service-worker.js",
-    "static/css/main.a45cd45e.chunk.css.map": "/https://github.com/BruceBelcher/Calculator-made-with-React/static/css/main.a45cd45e.chunk.css.map"
+    "main.css": "/Calculator-made-with-React/static/css/main.a45cd45e.chunk.css",
+    "main.js": "/Calculator-made-with-React/static/js/main.bc2abb28.chunk.js",
+    "main.js.map": "/Calculator-made-with-React/static/js/main.bc2abb28.chunk.js.map",
+    "runtime~main.js": "/Calculator-made-with-React/static/js/runtime~main.e126aa4c.js",
+    "runtime~main.js.map": "/Calculator-made-with-React/static/js/runtime~main.e126aa4c.js.map",
+    "static/js/2.abf43ca4.chunk.js": "/Calculator-made-with-React/static/js/2.abf43ca4.chunk.js",
+    "static/js/2.abf43ca4.chunk.js.map": "/Calculator-made-with-React/static/js/2.abf43ca4.chunk.js.map",
+    "index.html": "/Calculator-made-with-React/index.html",
+    "precache-manifest.564937079de2dda3d2b780ee35a1f459.js": "/Calculator-made-with-React/precache-manifest.564937079de2dda3d2b780ee35a1f459.js",
+    "service-worker.js": "/Calculator-made-with-React/service-worker.js",
+    "static/css/main.a45cd45e.chunk.css.map": "/Calculator-made-with-React/static/css/main.a45cd45e.chunk.css.map"
   }
 }
